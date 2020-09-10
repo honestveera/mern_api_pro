@@ -1,0 +1,28 @@
+{
+  "name": "api_pro",
+  "version": "1.0.0",
+  "description": "Simple API using express and mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honestveera/mern_api_pro.git"
+  },
+  "keywords": [
+    "express",
+    "mongoose",
+    "body_parser",
+    "mongo",
+    "nodeman",
+    "and",
+    "postman"
+  ],
+  "author": "honestraj.it@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honestveera/mern_api_pro/issues"
+  },
+  "homepage": "https://github.com/honestveera/mern_api_pro#readme"
+}
