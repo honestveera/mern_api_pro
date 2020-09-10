@@ -24,5 +24,12 @@
   "bugs": {
     "url": "https://github.com/honestveera/mern_api_pro/issues"
   },
-  "homepage": "https://github.com/honestveera/mern_api_pro#readme"
+  "homepage": "https://github.com/honestveera/mern_api_pro#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.4",
+    "nodeman": "^1.1.2"
+  }
 }
