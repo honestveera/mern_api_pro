@@ -1,5 +1,5 @@
 # MERN API PROJECT
-Build Simple api using Express + mongodb
+Build Simple RESTFUL API using Express + mongodb
 
 # PREREQUISITE
 1. NVM and NPM - Installation
@@ -16,10 +16,10 @@ Build Simple api using Express + mongodb
 6. npm install nodeman postman
 
 # Package Description
-Nodemon - express-server is restarted automatically. If we change index.js, server will restart automatically
-postman - Testing API using postman or chrome extension like Talent API Tester
-express - Nodejs webapplication framework. The Robust API will create VIA express
-mongoose - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
-cors - It is just like a middleware. Cross Origin Request Sharing enabled via CORS
-body-parser - It is just like a middleware. This is parsing incoming request bodies before handling you handle it.
+1.Nodemon - express-server is restarted automatically. If we change index.js, server will restart automatically
+2.postman - Testing API using postman or chrome extension like Talent API Tester
+3.express - Nodejs webapplication framework. The Robust API will create VIA express
+4.mongoose - Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to 5.translate between objects in code and the representation of those objects in MongoDB.
+6.cors - It is just like a middleware. Cross Origin Request Sharing enabled via CORS
+7.body-parser - It is just like a middleware. This is parsing incoming request bodies before handling you handle it.
 
